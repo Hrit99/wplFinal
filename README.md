@@ -1,6 +1,6 @@
 # wplappgui
 
-A new Flutter project.
+This is the application for PARINAY, a wedding planning startup.
 
 ## Getting Started
 
